@@ -27,11 +27,15 @@ h2 {
 	color: #000;
 	margin: 0 auto;
 	padding: 20px;
-	margin-bottom: 10vh;
+	margin-top: 10vh;
 	display: flex;
 	flex-flow: row wrap;
 }
 
 p {
 	text-align: center;
+}
+
+span {
+	text-decoration: underline;
 }
